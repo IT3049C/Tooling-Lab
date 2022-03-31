@@ -4,7 +4,6 @@
   "description": "",
   "scripts": {
     "start": "open index.html",
-    "lint": "eslint --ext .js resources/scripts",
     "test": "jest",
     "test:watch": "jest --watchAll"
   },
